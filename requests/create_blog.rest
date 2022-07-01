@@ -1,8 +1,9 @@
 POST http://localhost:3001/api/blogs
 Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6Im1sdXVra2FpIiwiaWQiOiI2MmJjNWEyMzU2Y2VkYTNiMzVmYjk3NTYiLCJpYXQiOjE2NTY2MTE5NDF9.Qp08gq5svzH2iMGnS96_uBldapeykLXdYL0SiYei1qk
 
 {
-    "title": "S",
+    "title": "mluukai logged in",
     "author": "s",
     "url": "s",
     "likes": 1

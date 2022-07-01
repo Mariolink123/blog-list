@@ -30,7 +30,7 @@ const mostBlogs = (blogs) => {
 }
 
 const mostLikes = (blogs) => {
-  return 1
+  return 1 + blogs.length
 }
 module.exports = {
   dummy,
