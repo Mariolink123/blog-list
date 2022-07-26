@@ -1,9 +1,9 @@
-PUT http://localhost:3001/api/blogs/5a422bc61b54a676234d17fc
+PUT http://localhost:3000/api/blogs/62cc40b75cace4c147bda6f4
 Content-Type: application/json 
 
 {
-    "title": "Type wars",
-    "author": "Robert C. Martin",
-    "url": "http://blog.cleancoder.com/uncle-bob/2016/05/01/TypeWars.html",
-    "likes": 10
+    "title": "test",
+    "author": "test",
+    "url": "test.com",
+    "likes": 3
 }
